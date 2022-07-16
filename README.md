@@ -3,4 +3,5 @@ Simple basketball scoreboard that uses HTML, CSS, and Javascript functions. You 
 Visit website below.  https://www.fontspace.com/category/scoreboard
 
 You can also check codepen for live viewing.
-https://codepen.io/abarojohncleo/pen/RwQdZQP
+
+https://codepen.io/abarojohncleo/full/RwQdZQP
